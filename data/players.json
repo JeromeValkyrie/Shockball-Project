@@ -1,1 +1,86 @@
-
+[
+  {
+    "id": "P001",
+    "number": 22,
+    "name": "Jerome Valkyrie",
+    "species": "Human (Corellian)",
+    "height": "1.85m",
+    "weight": "84kg",
+    "position": "Center",
+    "role_desc": "Physical Playmaker",
+    "stats": {
+      "reactions": 88,
+      "speed": 72,
+      "power": 92,
+      "launch": 68,
+      "pass_acc": 84,
+      "shot_acc": 78
+    },
+    "stamina": 100,
+    "xp": 1250,
+    "status": "Active"
+  },
+  {
+    "id": "P002",
+    "number": 07,
+    "name": "Karl Hawkmoon",
+    "species": "Kiffar",
+    "height": "1.83m",
+    "weight": "77kg",
+    "position": "Wing",
+    "role_desc": "Speed Demon Scorer",
+    "stats": {
+      "reactions": 92,
+      "speed": 98,
+      "power": 65,
+      "launch": 80,
+      "pass_acc": 75,
+      "shot_acc": 88
+    },
+    "stamina": 95,
+    "xp": 2100,
+    "status": "Active"
+  },
+  {
+    "id": "P003",
+    "number": 11,
+    "name": "Caisava Chelski",
+    "species": "Mirialan",
+    "height": "1.75m",
+    "weight": "62kg",
+    "position": "Wing",
+    "role_desc": "Sniper Scorer",
+    "stats": {
+      "reactions": 82,
+      "speed": 80,
+      "power": 60,
+      "launch": 70,
+      "pass_acc": 82,
+      "shot_acc": 96
+    },
+    "stamina": 90,
+    "xp": 1100,
+    "status": "Active"
+  },
+  {
+    "id": "P004",
+    "number": 01,
+    "name": "Tye Walker",
+    "species": "Human",
+    "height": "1.82m",
+    "weight": "80kg",
+    "position": "Guard",
+    "role_desc": "Goalkeeper & Main Defender",
+    "stats": {
+      "reactions": 98,
+      "speed": 60,
+      "power": 75,
+      "launch": 95,
+      "pass_acc": 70,
+      "shot_acc": 40
+    },
+    "stamina": 100,
+    "xp": 1800,
+    "status": "Active"
+  }
+]
